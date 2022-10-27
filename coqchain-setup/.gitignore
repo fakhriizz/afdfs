@@ -1,0 +1,6 @@
+faucet/*
+data/validator_1/*
+data/validator_2/*
+data/validator_3/*
+data/bootnode/*
+data/rpc/*
